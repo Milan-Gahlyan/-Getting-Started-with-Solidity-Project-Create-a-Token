@@ -24,7 +24,7 @@ pragma solidity 0.8.25;
 contract MyToken {
 
 ```
--This line starts the definition of the contract named MyToken.
+- This line starts the definition of the contract named MyToken.
 
 3. Public Variables:
 
@@ -44,7 +44,7 @@ uint256 public totalSupply = 0;
 mapping(address => uint256) public balances;
 
 ```
--This creates a public mapping that associates each address with its balance of tokens.
+- This creates a public mapping that associates each address with its balance of tokens.
 
 5. Mint Function:
 
